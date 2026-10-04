@@ -10,6 +10,6 @@ I love poezekes!
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Poezeke&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Poezeke&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Poezeke&color=green)](https://youtu.be/Ml7l8g7PIYw)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
